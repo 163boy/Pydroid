@@ -1,7 +1,7 @@
 # Wizard--触摸拖拽式设计你的界面
 ![wizard](img/wizard.png)
 
-该**Wizard_app**让您在手机上触摸拖拽式图形设计GUI界面。
+该**Wizard_app**让您在手机上触摸拖拽式图形设计GUI界面(https://github.com/aidlearning/AidLearning-FrameWork)
 
 您可以从组件工具箱（在屏幕左侧）中，选择要添加到界面的UI组件。选择一个组件，您必须填写分配该组件所需的一些字段。除了构造函数参数之外，还需要一些其他信息：
 
